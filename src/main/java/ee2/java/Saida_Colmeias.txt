@@ -1,0 +1,90 @@
+###   COLMEIA   ###
+
+Quantas abelhas operárias?
+1
+Quantos tarefas a realizar?
+4
+Linha a Linha, digite as propriedades das 4 tarefas no formato:
+id tempoResolucao idsDependencias
+
+1 20 2 4   
+4 30        
+3 50 2
+2 100
+
+OPERAÇÃO INICIADA!
+Horário: 1681866269716 - 22:04:29.716
+
+tarefa 4 feita
+tarefa 2 feita
+tarefa 1 feita
+tarefa 3 feita
+Todas as tarefas foram concluídas.
+
+OPERAÇÃO FINALIZADA!
+Horário: 1681866270069 - 22:04:30.069
+
+
+
+
+###   COLMEIA   ###       
+
+Quantas abelhas operárias?
+1
+Quantos tarefas a realizar?
+6
+Linha a Linha, digite as propriedades das 6 tarefas no formato:
+id tempoResolucao idsDependencias
+
+1 20 2 4   
+4 30        
+3 50 2      
+2 100       
+5 1000      
+6 10  
+
+OPERAÇÃO INICIADA!
+Horário: 1681866337479 - 22:05:37.479
+
+tarefa 4 feita
+tarefa 2 feita
+tarefa 5 feita
+tarefa 6 feita
+tarefa 1 feita
+tarefa 3 feita
+Todas as tarefas foram concluídas.
+
+OPERAÇÃO FINALIZADA!
+Horário: 1681866338827 - 22:05:38.827
+
+
+
+###   COLMEIA   ###
+
+Quantas abelhas operárias?
+2
+Quantos tarefas a realizar?
+6
+Linha a Linha, digite as propriedades das 6 tarefas no formato:
+id tempoResolucao idsDependencias
+
+1 20 2 4   
+4 30        
+3 50 2
+2 100
+5 1000
+6 10
+
+OPERAÇÃO INICIADA!
+Horário: 1681866377669 - 22:06:17.669
+
+tarefa 4 feita
+tarefa 2 feita
+tarefa 6 feita
+tarefa 1 feita
+tarefa 3 feita
+tarefa 5 feita
+Todas as tarefas foram concluídas.
+
+OPERAÇÃO FINALIZADA!
+Horário: 1681866378803 - 22:06:18.803

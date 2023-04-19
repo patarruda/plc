@@ -1,0 +1,241 @@
+###   CONTROLE DE VÔOS   ###
+
+Quantos aviões programados para decolagem?
+20
+Quantos aviões programados para aterrissagem?
+25
+Quantas pistas disponíveis no aeroporto?
+5
+
+OPERAÇÃO INICIADA!
+Horário: 1681866056702 - 22:00:56.702
+
+PROGRAMADO: Avião 0 - Decolagem >> 1681866063714 - 22:01:03.714
+PROGRAMADO: Avião 10 - Decolagem >> 1681866068033 - 22:01:08.033
+PROGRAMADO: Avião 9 - Decolagem >> 1681866068333 - 22:01:08.333
+PROGRAMADO: Avião 8 - Decolagem >> 1681866071767 - 22:01:11.767
+PROGRAMADO: Avião 7 - Decolagem >> 1681866077163 - 22:01:17.163
+PROGRAMADO: Avião 6 - Decolagem >> 1681866076917 - 22:01:16.917
+PROGRAMADO: Avião 39 - Aterrissagem >> 1681866063733 - 22:01:03.733
+PROGRAMADO: Avião 5 - Decolagem >> 1681866074345 - 22:01:14.345
+PROGRAMADO: Avião 2 - Decolagem >> 1681866078215 - 22:01:18.215
+PROGRAMADO: Avião 3 - Decolagem >> 1681866076806 - 22:01:16.806
+PROGRAMADO: Avião 4 - Decolagem >> 1681866068376 - 22:01:08.376
+PROGRAMADO: Avião 1 - Decolagem >> 1681866072647 - 22:01:12.647
+PROGRAMADO: Avião 43 - Aterrissagem >> 1681866073581 - 22:01:13.581
+PROGRAMADO: Avião 44 - Aterrissagem >> 1681866062346 - 22:01:02.346
+PROGRAMADO: Avião 42 - Aterrissagem >> 1681866075750 - 22:01:15.750
+PROGRAMADO: Avião 41 - Aterrissagem >> 1681866074138 - 22:01:14.138
+PROGRAMADO: Avião 40 - Aterrissagem >> 1681866060296 - 22:01:00.296
+PROGRAMADO: Avião 38 - Aterrissagem >> 1681866069554 - 22:01:09.554
+PROGRAMADO: Avião 36 - Aterrissagem >> 1681866070926 - 22:01:10.926
+PROGRAMADO: Avião 37 - Aterrissagem >> 1681866073831 - 22:01:13.831
+PROGRAMADO: Avião 35 - Aterrissagem >> 1681866061431 - 22:01:01.431
+PROGRAMADO: Avião 34 - Aterrissagem >> 1681866075889 - 22:01:15.889
+PROGRAMADO: Avião 33 - Aterrissagem >> 1681866067234 - 22:01:07.234
+PROGRAMADO: Avião 29 - Aterrissagem >> 1681866072140 - 22:01:12.140
+PROGRAMADO: Avião 32 - Aterrissagem >> 1681866069275 - 22:01:09.275
+PROGRAMADO: Avião 31 - Aterrissagem >> 1681866076710 - 22:01:16.710
+PROGRAMADO: Avião 30 - Aterrissagem >> 1681866072517 - 22:01:12.517
+PROGRAMADO: Avião 27 - Aterrissagem >> 1681866059379 - 22:00:59.379
+PROGRAMADO: Avião 28 - Aterrissagem >> 1681866072402 - 22:01:12.402
+PROGRAMADO: Avião 25 - Aterrissagem >> 1681866069824 - 22:01:09.824
+PROGRAMADO: Avião 26 - Aterrissagem >> 1681866065737 - 22:01:05.737
+PROGRAMADO: Avião 24 - Aterrissagem >> 1681866068139 - 22:01:08.139
+PROGRAMADO: Avião 23 - Aterrissagem >> 1681866064717 - 22:01:04.717
+PROGRAMADO: Avião 22 - Aterrissagem >> 1681866065629 - 22:01:05.629
+PROGRAMADO: Avião 21 - Aterrissagem >> 1681866066672 - 22:01:06.672
+PROGRAMADO: Avião 20 - Aterrissagem >> 1681866076304 - 22:01:16.304
+PROGRAMADO: Avião 19 - Decolagem >> 1681866072614 - 22:01:12.614
+PROGRAMADO: Avião 14 - Decolagem >> 1681866078658 - 22:01:18.658
+PROGRAMADO: Avião 18 - Decolagem >> 1681866065958 - 22:01:05.958
+PROGRAMADO: Avião 16 - Decolagem >> 1681866068638 - 22:01:08.638
+PROGRAMADO: Avião 17 - Decolagem >> 1681866077352 - 22:01:17.352
+PROGRAMADO: Avião 15 - Decolagem >> 1681866076634 - 22:01:16.634
+PROGRAMADO: Avião 11 - Decolagem >> 1681866060809 - 22:01:00.809
+PROGRAMADO: Avião 13 - Decolagem >> 1681866066099 - 22:01:06.099
+PROGRAMADO: Avião 12 - Decolagem >> 1681866063237 - 22:01:03.237
+Aterrissagem do Avião id 27 registrada!
+  Previsto: 1681866059379 - 22:00:59.379
+  Realizado: 1681866059379 - 22:00:59.379
+  Atraso: 0 - 00:00.000
+Aterrissagem do Avião id 40 registrada!
+  Previsto: 1681866060296 - 22:01:00.296
+  Realizado: 1681866060299 - 22:01:00.299
+  Atraso: 3 - 00:00.003
+Decolagem do Avião id 11 registrada!
+  Previsto: 1681866060809 - 22:01:00.809
+  Realizado: 1681866060916 - 22:01:00.916
+  Atraso: 107 - 00:00.107
+Aterrissagem do Avião id 35 registrada!
+  Previsto: 1681866061431 - 22:01:01.431
+  Realizado: 1681866061431 - 22:01:01.431
+  Atraso: 0 - 00:00.000
+Aterrissagem do Avião id 44 registrada!
+  Previsto: 1681866062346 - 22:01:02.346
+  Realizado: 1681866062347 - 22:01:02.347
+  Atraso: 1 - 00:00.001
+Decolagem do Avião id 12 registrada!
+  Previsto: 1681866063237 - 22:01:03.237
+  Realizado: 1681866063237 - 22:01:03.237
+  Atraso: 0 - 00:00.000
+Decolagem do Avião id 0 registrada!
+  Previsto: 1681866063714 - 22:01:03.714
+  Realizado: 1681866063745 - 22:01:03.745
+  Atraso: 31 - 00:00.031
+Aterrissagem do Avião id 39 registrada!
+  Previsto: 1681866063733 - 22:01:03.733
+  Realizado: 1681866064250 - 22:01:04.250
+  Atraso: 517 - 00:00.517
+Aterrissagem do Avião id 23 registrada!
+  Previsto: 1681866064717 - 22:01:04.717
+  Realizado: 1681866064756 - 22:01:04.756
+  Atraso: 39 - 00:00.039
+Aterrissagem do Avião id 22 registrada!
+  Previsto: 1681866065629 - 22:01:05.629
+  Realizado: 1681866065630 - 22:01:05.630
+  Atraso: 1 - 00:00.001
+Aterrissagem do Avião id 26 registrada!
+  Previsto: 1681866065737 - 22:01:05.737
+  Realizado: 1681866066137 - 22:01:06.137
+  Atraso: 400 - 00:00.400
+Decolagem do Avião id 18 registrada!
+  Previsto: 1681866065958 - 22:01:05.958
+  Realizado: 1681866066643 - 22:01:06.643
+  Atraso: 685 - 00:00.685
+Decolagem do Avião id 13 registrada!
+  Previsto: 1681866066099 - 22:01:06.099
+  Realizado: 1681866067147 - 22:01:07.147
+  Atraso: 1048 - 00:01.048
+Aterrissagem do Avião id 21 registrada!
+  Previsto: 1681866066672 - 22:01:06.672
+  Realizado: 1681866067654 - 22:01:07.654
+  Atraso: 982 - 00:00.982
+Aterrissagem do Avião id 33 registrada!
+  Previsto: 1681866067234 - 22:01:07.234
+  Realizado: 1681866068158 - 22:01:08.158
+  Atraso: 924 - 00:00.924
+Decolagem do Avião id 10 registrada!
+  Previsto: 1681866068033 - 22:01:08.033
+  Realizado: 1681866068662 - 22:01:08.662
+  Atraso: 629 - 00:00.629
+Aterrissagem do Avião id 24 registrada!
+  Previsto: 1681866068139 - 22:01:08.139
+  Realizado: 1681866069172 - 22:01:09.172
+  Atraso: 1033 - 00:01.033
+Decolagem do Avião id 9 registrada!
+  Previsto: 1681866068333 - 22:01:08.333
+  Realizado: 1681866069679 - 22:01:09.679
+  Atraso: 1346 - 00:01.346
+Decolagem do Avião id 4 registrada!
+  Previsto: 1681866068376 - 22:01:08.376
+  Realizado: 1681866070185 - 22:01:10.185
+  Atraso: 1809 - 00:01.809
+Decolagem do Avião id 16 registrada!
+  Previsto: 1681866068638 - 22:01:08.638
+  Realizado: 1681866070696 - 22:01:10.696
+  Atraso: 2058 - 00:02.058
+Aterrissagem do Avião id 32 registrada!
+  Previsto: 1681866069275 - 22:01:09.275
+  Realizado: 1681866071201 - 22:01:11.201
+  Atraso: 1926 - 00:01.926
+Aterrissagem do Avião id 38 registrada!
+  Previsto: 1681866069554 - 22:01:09.554
+  Realizado: 1681866071707 - 22:01:11.707
+  Atraso: 2153 - 00:02.153
+Aterrissagem do Avião id 25 registrada!
+  Previsto: 1681866069824 - 22:01:09.824
+  Realizado: 1681866072211 - 22:01:12.211
+  Atraso: 2387 - 00:02.387
+Aterrissagem do Avião id 36 registrada!
+  Previsto: 1681866070926 - 22:01:10.926
+  Realizado: 1681866072719 - 22:01:12.719
+  Atraso: 1793 - 00:01.793
+Decolagem do Avião id 8 registrada!
+  Previsto: 1681866071767 - 22:01:11.767
+  Realizado: 1681866073228 - 22:01:13.228
+  Atraso: 1461 - 00:01.461
+Aterrissagem do Avião id 29 registrada!
+  Previsto: 1681866072140 - 22:01:12.140
+  Realizado: 1681866073734 - 22:01:13.734
+  Atraso: 1594 - 00:01.594
+Aterrissagem do Avião id 28 registrada!
+  Previsto: 1681866072402 - 22:01:12.402
+  Realizado: 1681866074237 - 22:01:14.237
+  Atraso: 1835 - 00:01.835
+Aterrissagem do Avião id 30 registrada!
+  Previsto: 1681866072517 - 22:01:12.517
+  Realizado: 1681866074741 - 22:01:14.741
+  Atraso: 2224 - 00:02.224
+Decolagem do Avião id 19 registrada!
+  Previsto: 1681866072614 - 22:01:12.614
+  Realizado: 1681866075245 - 22:01:15.245
+  Atraso: 2631 - 00:02.631
+Decolagem do Avião id 1 registrada!
+  Previsto: 1681866072647 - 22:01:12.647
+  Realizado: 1681866075785 - 22:01:15.785
+  Atraso: 3138 - 00:03.138
+Aterrissagem do Avião id 43 registrada!
+  Previsto: 1681866073581 - 22:01:13.581
+  Realizado: 1681866076291 - 22:01:16.291
+  Atraso: 2710 - 00:02.710
+Aterrissagem do Avião id 37 registrada!
+  Previsto: 1681866073831 - 22:01:13.831
+  Realizado: 1681866076796 - 22:01:16.796
+  Atraso: 2965 - 00:02.965
+Aterrissagem do Avião id 41 registrada!
+  Previsto: 1681866074138 - 22:01:14.138
+  Realizado: 1681866077300 - 22:01:17.300
+  Atraso: 3162 - 00:03.162
+Decolagem do Avião id 5 registrada!
+  Previsto: 1681866074345 - 22:01:14.345
+  Realizado: 1681866077805 - 22:01:17.805
+  Atraso: 3460 - 00:03.460
+Aterrissagem do Avião id 42 registrada!
+  Previsto: 1681866075750 - 22:01:15.750
+  Realizado: 1681866078309 - 22:01:18.309
+  Atraso: 2559 - 00:02.559
+Aterrissagem do Avião id 34 registrada!
+  Previsto: 1681866075889 - 22:01:15.889
+  Realizado: 1681866078817 - 22:01:18.817
+  Atraso: 2928 - 00:02.928
+Aterrissagem do Avião id 20 registrada!
+  Previsto: 1681866076304 - 22:01:16.304
+  Realizado: 1681866079333 - 22:01:19.333
+  Atraso: 3029 - 00:03.029
+Decolagem do Avião id 15 registrada!
+  Previsto: 1681866076634 - 22:01:16.634
+  Realizado: 1681866079848 - 22:01:19.848
+  Atraso: 3214 - 00:03.214
+Aterrissagem do Avião id 31 registrada!
+  Previsto: 1681866076710 - 22:01:16.710
+  Realizado: 1681866080363 - 22:01:20.363
+  Atraso: 3653 - 00:03.653
+Decolagem do Avião id 3 registrada!
+  Previsto: 1681866076806 - 22:01:16.806
+  Realizado: 1681866080878 - 22:01:20.878
+  Atraso: 4072 - 00:04.072
+Decolagem do Avião id 6 registrada!
+  Previsto: 1681866076917 - 22:01:16.917
+  Realizado: 1681866081394 - 22:01:21.394
+  Atraso: 4477 - 00:04.477
+Decolagem do Avião id 7 registrada!
+  Previsto: 1681866077163 - 22:01:17.163
+  Realizado: 1681866081909 - 22:01:21.909
+  Atraso: 4746 - 00:04.746
+Decolagem do Avião id 17 registrada!
+  Previsto: 1681866077352 - 22:01:17.352
+  Realizado: 1681866082413 - 22:01:22.413
+  Atraso: 5061 - 00:05.061
+Decolagem do Avião id 2 registrada!
+  Previsto: 1681866078215 - 22:01:18.215
+  Realizado: 1681866082918 - 22:01:22.918
+  Atraso: 4703 - 00:04.703
+Decolagem do Avião id 14 registrada!
+  Previsto: 1681866078658 - 22:01:18.658
+  Realizado: 1681866083425 - 22:01:23.425
+  Atraso: 4767 - 00:04.767
+
+OPERAÇÃO FINALIZADA!
+Horário: 1681866083942 - 22:01:23.942
+TEMPO TOTAL: 27240 - 21:00:27.240
